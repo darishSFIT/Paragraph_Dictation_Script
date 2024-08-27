@@ -2,7 +2,6 @@
 
 Here's a `README.md` file for your project, including a description of the code and explanations for important lines.
 
-```markdown
 # Text-to-Speech with Custom Delays
 
 This Python script converts text to speech using the `pyttsx3` library, allowing users to specify a delay between words and adjust the speech rate. The script is particularly useful for dictation or practicing typing, as it provides ample time between words based on their length.
@@ -108,8 +107,4 @@ if __name__ == "__main__":
 - **speak_with_custom_delay(text, global_delay)**: Calls the function to start reading the text with the specified delays.
 
 ## License
-
 This project is open-source and free to use.
-```
-
-You can use this `README.md` file to explain your project and provide instructions for others who might want to use or contribute to it.
