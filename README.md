@@ -1,10 +1,6 @@
-# Paragraph_Dictation_Script
-
-Here's a `README.md` file for your project, including a description of the code and explanations for important lines.
-
-# Text-to-Speech with Custom Delays
-
-This Python script converts text to speech using the `pyttsx3` library, allowing users to specify a delay between words and adjust the speech rate. The script is particularly useful for dictation or practicing typing, as it provides ample time between words based on their length.
+# Paragraph Dictation Script
+## A script used to dictate a paragraph for you to write instead of looking at text again and again and writing.
+#### This Python script converts text to speech using the `pyttsx3` library, allowing users to specify a delay between words and adjust the speech rate. The script is particularly useful for dictation or practicing typing, as it provides ample time between words based on their length.
 
 ## Features
 
